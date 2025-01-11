@@ -266,7 +266,7 @@ text-align: center;
 
 }
 .put-me-on:hover{
-  border:2px solid #10161d;
+  border:2px solid #0a1a11;
 }
 .perfect{
 border-top-right-radius: 5px;
@@ -279,8 +279,10 @@ padding-bottom: 5px;
 background-color: #006A50;
 color: #FFFFFF;
 
-
-
+}
+.perfect:hover{
+  border:2px solid #0a1a11;
+  color: #10161d;
 }
 .last-p{
 text-align: center;
