@@ -104,6 +104,16 @@ nav{
   padding: 10px;
   border: none;
 }
+
+  .btn-one:hover{
+  background-color:#10161d;
+}
+.btn-two:hover{
+  background-color:#10161d;
+}
+  .btn-three:hover{
+    background-color:#10161d;
+  }
 .btn-three{
   background-color:#FFC239 ;
   border-radius:5px ;
@@ -111,6 +121,7 @@ nav{
   padding: 10px;
   border: none;
 }
+
 .quote{
   margin-top: 50px;
   height:180px;
