@@ -253,6 +253,7 @@ justify-content: center;
 align-items: center;
 
 }
+
 .put-me-on{
 border-top-left-radius: 5px;
 border-bottom-left-radius: 5px;
@@ -263,6 +264,9 @@ padding-bottom: 5px;
 background-color: #FFFFFF;
 text-align: center;
 
+}
+.put-me-on:hover{
+  border:2px solid #10161d;
 }
 .perfect{
 border-top-right-radius: 5px;
